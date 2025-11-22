@@ -6,9 +6,9 @@ This is the pre-processed dataset used in the paper:" ZENA.
 
 The dataset can be used to test cybersecurity applications, Ai-based IDS, threat intelligence, and adversarial machine learning that target the Z-Wave protocol.
 
-ZENA dataset includes heterogeneous real Z-Wave devices traffic such as the main controller, several slaves' devices, actuators, and sensors.
+ZENA dataset includes heterogeneous real Z-Wave devices traffic such as the main controller, several slaves devices, actuators, and sensors.
 
-The dataset consists of normal (benign) traffic and abnormal (attack) traffic collected from known Z-Wave vulnerabilities and fuzzing techniques.
+The dataset consists of normal (benign) traffic from real devices and abnormal (attack) traffic collected from known Z-Wave vulnerabilities and fuzzing techniques.
 
 ## Research paper details : To be added
  
