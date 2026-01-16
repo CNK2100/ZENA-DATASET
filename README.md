@@ -24,6 +24,8 @@ Follow update at : https://github.com/CNK2100/ZENA-DATASET
 
 - Nkuba Kayembe Carlos, Chanhee Park, Imatitikua Aiyanyo, Heejo Lee, and Heuiseok Lim, ZENA: Enhanced Anomaly-Based IDS for Smart Homes Automation Through Multilayer Artificial Neural Network, Journal of Communications and Networks
   
+- N. K. Carlos, J. Kang, S. Woo and H. Lee, "ZCover: Uncovering Z-Wave Controller Vulnerabilities Through Systematic Security Analysis of Application Layer Implementation," 2025 55th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), Naples, Italy, 2025, pp. 678-690, doi: 10.1109/DSN64029.2025.00068
+
 - C. K. Nkuba, S. Woo, H. Lee and S. Dietrich, "ZMAD: Lightweight Model-Based Anomaly Detection for the Structured Z-Wave Protocol," in IEEE Access, vol. 11, pp. 60562-60577, 2023, doi: 10.1109/ACCESS.2023.3285476
   
 - C. K. Nkuba, S. Kim, S. Dietrich and H. Lee, "Riding the IoT Wave With VFuzz: Discovering Security Flaws in Smart Homes," in IEEE Access, vol. 10, pp. 1775-1789, 2022, doi: 10.1109/ACCESS.2021.3138768
