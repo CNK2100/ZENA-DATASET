@@ -12,7 +12,7 @@ The dataset consists of normal (benign) traffic from real devices and abnormal (
 
 ## Research paper details : 
 
-Nkuba Kayembe Carlos, Chanhee Park, Imatitikua Aiyanyo, Heejo Lee, and Heuiseok Lim, ZENA: Enhanced Anomaly-Based IDS for Smart Homes Automation Through Multilayer Artificial Neural Network, Journal of Communications and Networks
+Nkuba Kayembe Carlos, Chanhee Park, Imatitikua Aiyanyo, Heejo Lee, and Heuiseok Lim, ZENA: Enhanced Anomaly-Based IDS for Smart Homes Automation Through Multilayer Artificial Neural Network, Journal of Communications and Networks, 2026.
 
 Paper link: To be added
 
@@ -22,7 +22,7 @@ Follow update at : https://github.com/CNK2100/ZENA-DATASET
 
 ## For the academic/public use, the researcher MUST cite the following papers:
 
-- Nkuba Kayembe Carlos, Chanhee Park, Imatitikua Aiyanyo, Heejo Lee, and Heuiseok Lim, ZENA: Enhanced Anomaly-Based IDS for Smart Homes Automation Through Multilayer Artificial Neural Network, Journal of Communications and Networks
+- Nkuba Kayembe Carlos, Chanhee Park, Imatitikua Aiyanyo, Heejo Lee, and Heuiseok Lim, ZENA: Enhanced Anomaly-Based IDS for Smart Homes Automation Through Multilayer Artificial Neural Network, Journal of Communications and Networks, 2026.
   
 - N. K. Carlos, J. Kang, S. Woo and H. Lee, "ZCover: Uncovering Z-Wave Controller Vulnerabilities Through Systematic Security Analysis of Application Layer Implementation," 2025 55th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), Naples, Italy, 2025, pp. 678-690, doi: 10.1109/DSN64029.2025.00068
 
